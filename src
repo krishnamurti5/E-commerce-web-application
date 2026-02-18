@@ -1,0 +1,10 @@
+react-ecommerce-app
+ ├── src
+ │   ├── components
+ │   │    ├── Navbar.jsx
+ │   │    ├── ProductCard.jsx
+ │   │    ├── Cart.jsx
+ │   ├── App.jsx
+ │   ├── main.jsx
+ │   ├── data.js
+ │   └── index.css
